@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Isabelle 😁
+## Bem-vindo(a) ao perfil da Isabelle 
 
  <div>
   <a href="https://github.com/isabelle-vcorrea">
